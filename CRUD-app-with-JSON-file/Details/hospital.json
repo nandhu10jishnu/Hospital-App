@@ -1,0 +1,17 @@
+{
+    "1": {
+        "hospital": "Medicity",
+        "patientcount": "10",
+        "hospitallocation": "ayathil"
+    },
+    "2": {
+        "hospital": "cosmo",
+        "patientcount": "12",
+        "hospitallocation": "tvm"
+    },
+    "3": {
+        "hospital": "appolo",
+        "patientcount": "14",
+        "hospitallocation": "kollam"
+    }
+}
